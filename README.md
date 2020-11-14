@@ -1,5 +1,5 @@
-# dissertation
+# Dissertation
 An agent-based approaches to intelligent car parking management and data analytics for sustainability
 
-# author
+# Author
 Jake Doran - http://www.jakedoran.co.uk
